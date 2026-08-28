@@ -9,16 +9,22 @@ Open to opportunities across software development broadly. Comfortable picking u
 - **[Platformer Game](https://github.com/deniadrian/platformer-game)** *(in progress)* — 2D platformer with ground-check movement, patrol AI, health system, and multi-scene levels.
 
 ## 🛠️ Tech
-`C#` `Unity` `Git` `[tambahkan bahasa/tools lain yang kamu kuasai]`
+
+**Currently using**
+`C#` `Unity (2D)` `Git & GitHub` `Visual Studio`
+
+**Learning next**
+`Data Structures & Algorithms` `Object Pooling & Performance Optimization` `HTML/CSS/JavaScript` `SQL`
 
 ## 📌 What I'm learning next
+- Deepening core CS fundamentals (data structures, algorithms) to strengthen problem-solving beyond any single stack
 - Object pooling & performance optimization in Unity
-- Exploring backend/web fundamentals alongside game dev
+- Exploring web fundamentals (HTML/CSS/JS) to build a broader software development foundation
 
 ## 📫 Reach me
-- Email: [email kamu]
-- LinkedIn: [link LinkedIn kamu]
-- itch.io: [link itch.io kamu]
+- Email: [deniadrian@gmail.com]
+- LinkedIn: [soon]
+- itch.io: [https://deniadrianm.itch.io/]
 
 ---
 *Currently learning in public — feel free to check the commit history on my repos to see the process, not just the finished product.*
