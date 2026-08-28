@@ -1,4 +1,4 @@
-# Hi, I'm Deni 👋
+#                                                                 Hi, I'm Deni 👋
 
 Software developer with a current focus on **game programming** (Unity / C#) — building projects from the ground up to sharpen core engineering fundamentals: physics, state management, and system design.
 
