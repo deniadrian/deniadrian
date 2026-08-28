@@ -5,7 +5,7 @@ Software developer with a current focus on **game programming** (Unity / C#) —
 Open to opportunities across software development broadly. Comfortable picking up new stacks fast — the projects below reflect how I learn: build, break, debug, ship.
 
 ## 🎮 Current focus: Game Programming
-- **[Flappy Clone](https://github.com/deniadrian/flappy-clone)** — Physics-based movement, object spawning, collision detection, and game state management (Singleton pattern) in Unity/C#. [Play it](LINK_ITCH_IO_FLAPPY)
+- **[Flappy Clone](https://github.com/deniadrian/flappy-clone)** — Physics-based movement, object spawning, collision detection, and game state management (Singleton pattern) in Unity/C#. [Play it](https://deniadrianm.itch.io/flappy-bird-clone-unity-learning-project)
 - **[Platformer Game](https://github.com/deniadrian/platformer-game)** *(in progress)* — 2D platformer with ground-check movement, patrol AI, health system, and multi-scene levels.
 
 ## 🛠️ Tech
