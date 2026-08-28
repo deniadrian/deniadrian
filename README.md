@@ -22,7 +22,7 @@ Open to opportunities across software development broadly. Comfortable picking u
 - Exploring web fundamentals (HTML/CSS/JS) to build a broader software development foundation
 
 ## 📫 Reach me
-- Email: [deniadrian@gmail.com]
+- Email: [deniadrian1010@gmail.com]
 - LinkedIn: [soon]
 - itch.io: [https://deniadrianm.itch.io/]
 
