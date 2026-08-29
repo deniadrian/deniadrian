@@ -1,30 +1,33 @@
-#                                                                 Hi, I'm Deni 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Deni+Adrian+Maulana;currently+building+in+Unity+%2F+C%23;figuring+out+where+I+land+next" alt="typing animation" />
+</p>
 
-Software developer with a current focus on **game programming** (Unity / C#) — building projects from the ground up to sharpen core engineering fundamentals: physics, state management, and system design.
+Learning software dev, currently deep in game programming with Unity/C#. Not locked into just games long-term — figuring out where I land, but this is where I'm putting the reps in right now.
 
-Open to opportunities across software development broadly. Comfortable picking up new stacks fast — the projects below reflect how I learn: build, break, debug, ship.
+<br>
 
-## 🎮 Current focus: Game Programming
-- **[Flappy Clone](https://github.com/deniadrian/flappy-clone)** — Physics-based movement, object spawning, collision detection, and game state management (Singleton pattern) in Unity/C#. [Play it](https://deniadrianm.itch.io/flappy-bird-clone-unity-learning-project)
-- **[Platformer Game](https://github.com/deniadrian/platformer-game)** *(in progress)* — 2D platformer with ground-check movement, patrol AI, health system, and multi-scene levels.
+**Projects**
 
-## 🛠️ Tech
+[flappy-clone](https://github.com/deniadrian/flappy-clone) — first Unity project. Physics, collision, scoring, the whole loop. [play it](https://deniadrianm.itch.io/flappy-bird-clone-unity-learning-project)
 
-**Currently using**
-`C#` `Unity (2D)` `Git & GitHub` `Visual Studio`
+[platformer-game](https://github.com/deniadrian/platformer-game) — still building this one. Movement, jump, ground detection working so far.
 
-**Learning next**
-`Data Structures & Algorithms` `Object Pooling & Performance Optimization` `HTML/CSS/JavaScript` `SQL`
+<br>
 
-## 📌 What I'm learning next
-- Deepening core CS fundamentals (data structures, algorithms) to strengthen problem-solving beyond any single stack
-- Object pooling & performance optimization in Unity
-- Exploring web fundamentals (HTML/CSS/JS) to build a broader software development foundation
+**Stack right now**
 
-## 📫 Reach me
-- Email: [deniadrian1010@gmail.com]
-- LinkedIn: [soon]
-- itch.io: [https://deniadrianm.itch.io/]
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-*Currently learning in public — feel free to check the commit history on my repos to see the process, not just the finished product.*
+**Poking at next**
+
+![DSA](https://img.shields.io/badge/DS%20%26%20Algo-4B8BBE?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+<br>
+
+Reach me at [deniadrian1010@gmail.com] or [LinkedIn_soon]
