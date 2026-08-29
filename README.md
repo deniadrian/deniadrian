@@ -30,4 +30,4 @@ Learning software dev, currently deep in game programming with Unity/C#. Not loc
 
 <br>
 
-Reach me at [deniadrian1010@gmail.com] or [LinkedIn_soon]
+Reach me at [deniadrian1010@gmail.com] or [LinkedIn soon]
