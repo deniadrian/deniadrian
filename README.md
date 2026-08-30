@@ -12,21 +12,25 @@ Learning software dev, currently deep in game programming with Unity/C#. Not loc
 
 [platformer-game](https://github.com/deniadrian/platformer-game) — still grinding this one. Movement, jump, ground detection working so far.
 
+[split-track](https://github.com/deniadrian/split-track) — side quest into web dev. Bill-splitting app for friend groups, built with ASP.NET Core + EF Core. Backend API up and working: users, groups, expenses, auto balance calculation.
+
 <br>
 
 **⚔️ Current Loadout**
 
 ![C#](https://img.shields.io/badge/C%23-39FF14?style=for-the-badge&logo=csharp&logoColor=000000)
 ![Unity](https://img.shields.io/badge/Unity-39FF14?style=for-the-badge&logo=unity&logoColor=000000)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-39FF14?style=for-the-badge&logo=dotnet&logoColor=000000)
 ![Git](https://img.shields.io/badge/Git-39FF14?style=for-the-badge&logo=git&logoColor=000000)
 
 **🌳 Skill Tree (in progress)**
 
 ![DSA](https://img.shields.io/badge/DS%20%26%20Algo-1A1A1A?style=for-the-badge&logoColor=39FF14)
+![SQL](https://img.shields.io/badge/SQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=39FF14)
 ![HTML](https://img.shields.io/badge/HTML-1A1A1A?style=for-the-badge&logo=html5&logoColor=39FF14)
 ![CSS](https://img.shields.io/badge/CSS-1A1A1A?style=for-the-badge&logo=css3&logoColor=39FF14)
 ![JS](https://img.shields.io/badge/JavaScript-1A1A1A?style=for-the-badge&logo=javascript&logoColor=39FF14)
-![SQL](https://img.shields.io/badge/SQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=39FF14)
+![React](https://img.shields.io/badge/React-1A1A1A?style=for-the-badge&logo=react&logoColor=39FF14)
 
 <br>
 
